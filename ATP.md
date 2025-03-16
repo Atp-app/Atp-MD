@@ -8,7 +8,7 @@
 ---
 
 ```
-PANHWAR-MD BY ANSAR-PANHWAR 👑
+ATP-MD BY ATP 👑
 ```
 ---
 
@@ -20,11 +20,11 @@ PANHWAR-MD BY ANSAR-PANHWAR 👑
 
 **Start by forking this repository to your own GitHub account. Click the button below to fork:**
 
-  <a href="https://github.com/ANSAR-PANHWAR/PANHWAR-MD/fork"><img title="PANHWAR-MD" src="https://img.shields.io/badge/FORK-PANHWAR MD-h?color=blue&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/ANSAR-ATP/ATP-MD/fork"><img title="ATP-MD" src="https://img.shields.io/badge/FORK-ATP MD-h?color=blue&style=for-the-badge&logo=stackshare"></a>
   
 ### 2. Get Session ID 
 
-**You will need a session ID to run the PANHWAR-MD. Click the button below to obtain your session ID.if any error in loading site try vpn:**
+**You will need a session ID to run the ATP-MD. Click the button below to obtain your session ID.if any error in loading site try vpn:**
 
 > **Get Pair Code (Session ID)**
 
@@ -43,7 +43,7 @@ PANHWAR-MD BY ANSAR-PANHWAR 👑
 ---
 
 <p align="center">
-<a href='https://dashboard.heroku.com/new-app?template=https://github.com/ANSAR-PANHWAR/PANHWAR-MD' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-heroku ‎ deploy-purple?style=for-the-badge&logo=heroku&logoColor=white'/< width=250 height=45/p></a>
+<a href='https://dashboard.heroku.com/new-app?template=https://github.com/ANSAR-ATP/ATP-MD' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-heroku ‎ deploy-purple?style=for-the-badge&logo=heroku&logoColor=white'/< width=250 height=45/p></a>
 
 ---
 
